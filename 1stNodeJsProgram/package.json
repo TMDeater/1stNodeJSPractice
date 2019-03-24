@@ -1,0 +1,14 @@
+{
+  "name": "1stnodejsprogram",
+  "version": "1.0.0",
+  "description": "This is my 1st Node JS Program to learn",
+  "main": "Node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^1.2.1"
+  }
+}
